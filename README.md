@@ -18,7 +18,7 @@ This is a **Node.js & Express** backend for an **E-commerce application** using 
 
 ### 1️⃣ Clone the Repository
 ```bash
-$ git clone https://github.com/trilok24/ecommerce-backend.git
+$ git clone https://github.com/trilok24/Ecommerce_Node
 $ cd ecommerce-backend
 ```
 
@@ -86,7 +86,7 @@ The server runs at: `http://localhost:3000`
 ### Deploy on Render
 1. Push the project to GitHub
 2. Create a **New Web Service** on [Render](https://ecommerce-backend-1y8b.onrender.com)
-3. Git Repo https://github.com/trilok24/ecommerce-backend
+3. Git Repo https://github.com/trilok24/Ecommerce_Node
 4. Set **Build Command**: `yarn install`
 5. Set **Start Command**: `node app.js`
 6. Add Environment Variables from `.env`
