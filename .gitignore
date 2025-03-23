@@ -1,6 +1,5 @@
 .env
-s3config.js
-razorpayConfig.js
+
 
 
 
@@ -9,10 +8,7 @@ razorpayConfig.js
 env_backup
 
 # Config files
-s3config.js
-razorpayConfig.js
-s3config_backup.js
-razorpayConfig_backup.js
+
 .env
 .env
 node_modules/
