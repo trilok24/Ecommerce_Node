@@ -1,4 +1,4 @@
-const express =require ("express");
+nconst express =require ("express");
 const app = express();
 const mongoose = require('mongoose');
 const routes = require("./route");
@@ -11,7 +11,7 @@ const MONGODB_URI = process.env.MONGODB_URI
 app.use (express.json());
 
 
-mongoose.connect('mongodb+srv:/',
+mongoose.connect('mongodb+srv:/', enter your mongoURI
  {
     useNewUrlParser: true,
     useUnifiedTopology: true
