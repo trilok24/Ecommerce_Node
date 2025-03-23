@@ -11,7 +11,7 @@ const MONGODB_URI = process.env.MONGODB_URI
 app.use (express.json());
 
 
-mongoose.connect('mongodb+srv://mandre:Root@cluster0.fo7e5.mongodb.net/',
+mongoose.connect('mongodb+srv:/',
  {
     useNewUrlParser: true,
     useUnifiedTopology: true
