@@ -1,0 +1,17 @@
+.env
+s3config.js
+razorpayConfig.js
+
+
+
+# Environment variables
+.env
+env_backup
+
+# Config files
+s3config.js
+razorpayConfig.js
+s3config_backup.js
+razorpayConfig_backup.js
+.env
+.env
